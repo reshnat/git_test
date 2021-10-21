@@ -1,0 +1,1 @@
+This is Reshmie's first git project! Ok not really but I'm finally understanding what's going on. 
